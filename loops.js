@@ -5,7 +5,7 @@ function forLoop(array){
     array.push("I am " i === 1 " strange loop");
 }
 
-    else if (let i){
+    else if (let i < 25){
     array.push ("I am ${i} strange loops.");
 
   }
